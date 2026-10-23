@@ -87,6 +87,31 @@ I build production-grade prototypes bridging enterprise web stacks with intellig
 
 ---
 
+## 🌟 Open-Source AI, Agentic & Full-Stack Repositories
+
+<div align="center">
+
+| Repository | Domain | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| [**gemini-multimodal-orchestrator**](https://github.com/aaravrai2006-svg/gemini-multimodal-orchestrator) | Multi-Agent AI | Gemini 1.5, Python, FastAPI | Dynamic tool calling, supervisor model routing |
+| [**mcp-postgres-memory-server**](https://github.com/aaravrai2006-svg/mcp-postgres-memory-server) | Agent Tooling / MCP | MCP Standard, PostgreSQL, Python | Semantic memory & entity graph server for LLMs |
+| [**deep-research-autonomous-agent**](https://github.com/aaravrai2006-svg/deep-research-autonomous-agent) | Autonomous Search | Python, LLMs, Web Scraping | Recursive search query planning & citation synthesis |
+| [**hybrid-rag-pgvector-fastapi**](https://github.com/aaravrai2006-svg/hybrid-rag-pgvector-fastapi) | RAG & Vector Search | pgvector, FastAPI, BM25 | Reciprocal Rank Fusion (RRF) hybrid retrieval |
+| [**nextjs15-fastapi-template**](https://github.com/aaravrai2006-svg/nextjs15-fastapi-template) | Full-Stack Boilerplate | Next.js 15, FastAPI, Tailwind | Enterprise monorepo, Docker Compose, JWT auth |
+| [**semantic-cache-layer**](https://github.com/aaravrai2006-svg/semantic-cache-layer) | LLM Cost Optimization | Redis, FastAPI, Cosine Dist | Sub-10ms response caching for OpenAI/Gemini |
+| [**agentic-code-reviewer**](https://github.com/aaravrai2006-svg/agentic-code-reviewer) | DevSecOps & AI Review | Python, GitHub Actions | Zero-secrets scanner & automated PR logic auditor |
+| [**structured-data-extractor-llm**](https://github.com/aaravrai2006-svg/structured-data-extractor-llm) | Document Processing | Pydantic v2, FastAPI | Deterministic JSON schema extraction from PDFs |
+| [**prompt-evaluation-harness**](https://github.com/aaravrai2006-svg/prompt-evaluation-harness) | Prompt Engineering | Pytest, Benchmarking | Automated prompt regression & hallucination tests |
+| [**industrial-anomaly-detector**](https://github.com/aaravrai2006-svg/industrial-anomaly-detector) | Predictive Analytics | Scikit-learn, Pandas, EWMA | Multivariate time-series IoT sensor anomaly scoring |
+| [**realtime-collaborative-canvas**](https://github.com/aaravrai2006-svg/realtime-collaborative-canvas) | Realtime Full-Stack | WebSockets, Canvas, TypeScript | Low-latency shared whiteboard canvas |
+| [**auth-service-fastapi-jwt**](https://github.com/aaravrai2006-svg/auth-service-fastapi-jwt) | Security & Microservices | FastAPI, Argon2, JWT | Production auth service with rotation tokens |
+| [**awesome-agentic-ai-architectures**](https://github.com/aaravrai2006-svg/awesome-agentic-ai-architectures) | Curated Research | Markdown, Architecture Specs | Curated compendium of agent patterns & MCP tools |
+| [**dsa-patterns-solutions-cpp-python**](https://github.com/aaravrai2006-svg/dsa-patterns-solutions-cpp-python) | Algorithms & DSA | C++20, Python 3.12 | Sliding window, two pointers, graphs, dynamic prog |
+
+</div>
+
+---
+
 ## 💼 Professional Experience & Simulations
 
 #### **Virtual Experience Intern — GenAI-Powered Data Analytics**
