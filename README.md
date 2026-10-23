@@ -25,7 +25,7 @@
 
 ## 📌 Executive Summary
 
-I am a **Computer Science undergraduate at Lakshmi Narain College of Technology (LNCT), Bhopal** (B.Tech CSE '28, CGPA: **8.12/10**), specializing in full-stack engineering, distributed backend APIs, and cutting-edge **Generative & Agentic AI systems**.
+I am a **Computer Science undergraduate**, specializing in full-stack engineering, distributed backend APIs, and cutting-edge **Generative & Agentic AI systems**.
 
 I build production-grade prototypes bridging enterprise web stacks with intelligent autonomous workflows—from designing transactional schemas and asynchronous **FastAPI/PostgreSQL** pipelines to deploying dynamic **Next.js/TypeScript** frontends and conversational AI tools using the **Gemini API** and **Model Context Protocol (MCP)**. Additionally, I blend technical depth with commercial business acumen in digital marketing, Meta campaign optimization, and lead generation.
 
