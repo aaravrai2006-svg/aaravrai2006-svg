@@ -132,8 +132,7 @@ I build production-grade prototypes bridging enterprise web stacks with intellig
 ## 🎓 Education
 
 - **Bachelor of Technology (B.Tech) — Computer Science & Engineering**
-  **Lakshmi Narain College of Technology (LNCT), Bhopal** &bull; *Expected Graduation: 2028*
-  - **Academic Standing**: Current CGPA: **8.12 / 10**
+ &bull; *Expected Graduation: 2028*
   - **Key Coursework**: Data Structures & Algorithms, Object-Oriented Programming (Java/C++), Database Management Systems (SQL), Operating Systems, Computer Networks.
 
 ---
