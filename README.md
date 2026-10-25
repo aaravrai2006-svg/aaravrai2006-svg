@@ -3,7 +3,7 @@
 # Hi there, I'm Aarav Rai 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Next.js+%26+FastAPI;AI+Systems+%26+Generative+AI+Engineer;Creator+of+KisanQ+%E2%80%94+Smart+Agri+Infrastructure;Agentic+Coding+%26+Multi-Agent+Workflows;CS+Undergraduate+%40+LNCT+Bhopal+(CGPA+8.12)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Next.js+%26+FastAPI;AI+Systems+%26+Generative+AI+Engineer;Creator+of+KisanQ+%E2%80%94+Smart+Agri+Infrastructure;Agentic+Coding+%26+Multi-Agent+Workflows;CS+Undergraduate+%40" alt="Typing SVG" />
 </a>
 
 <p align="center">
